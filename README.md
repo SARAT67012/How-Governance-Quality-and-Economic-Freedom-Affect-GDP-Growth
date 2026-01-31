@@ -55,7 +55,7 @@ This question is critical for:
 - **Observations:** 186 countries  
 - **Source:** Economic Freedom Index and macroeconomic databases  
 
-### Key Variables
+### Variables
 
 **Dependent Variable**
 - GDP Growth Rate (%)
@@ -103,7 +103,7 @@ This question is critical for:
 <img width="55" height="32" alt="Image" src="https://github.com/user-attachments/assets/581179cc-ff43-4605-b399-bcb1f1b19c78" />
 ---
 
-## Key Econometric Results
+## Econometric Results
 
 The OLS model identifies **three statistically significant drivers of GDP growth**:
 
@@ -128,7 +128,7 @@ The OLS model identifies **three statistically significant drivers of GDP growth
 - Trade Freedom  
 - Public Debt  
 
-**Key insight:**  
+### insight:-
 Broad economic freedom indices are less informative than **specific governance and
 labor market indicators**.
 
@@ -176,7 +176,7 @@ Based on robust empirical evidence, the study suggests:
 
 ---
 
-## Key Takeaway
+## Takeaway
 
 > Economic growth is driven less by broad economic freedom indices and more by **clean
 > governance, employment conditions, and macroeconomic stability**.
@@ -185,7 +185,7 @@ This insight is critical for designing **targeted, effective growth policies**.
 
 ---
 
-## My Role & Contributions
+## Steps:-
 
 - Cross-country data cleaning and preparation  
 - Econometric model design and estimation  
@@ -196,7 +196,7 @@ This insight is critical for designing **targeted, effective growth policies**.
 
 ---
 
-## Skills Demonstrated
+## Skills Uses :-
 
 - Econometrics (OLS, robust inference)  
 - Cross-country data analysis  
