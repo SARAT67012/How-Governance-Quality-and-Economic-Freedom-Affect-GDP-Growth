@@ -154,6 +154,11 @@ To ensure reliability, the findings were validated using multiple approaches:
 
 This cross-validation confirms that the results are **not model-specific artifacts**.
 
+
+<img width="773" height="233" alt="Image" src="https://github.com/user-attachments/assets/3c31384d-d271-49fc-9b63-12961fb06f2b" />
+
+<img width="736" height="248" alt="Image" src="https://github.com/user-attachments/assets/ee823ae2-2184-4267-8d04-e0d2ae87e701" />
+
 ---
 
 ## Policy Implications
