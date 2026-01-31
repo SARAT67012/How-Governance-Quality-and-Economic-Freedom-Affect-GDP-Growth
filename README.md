@@ -79,7 +79,9 @@ This question is critical for:
 - **Primary Model:** Multiple Linear Regression (OLS)  
 - **Correction:** HC3 Robust Standard Errors (heteroscedasticity detected via
   Breusch–Pagan test)  
-- **Evaluation Metrics:** Coefficient significance, adjusted R²  
+- **Evaluation Metrics:** Coefficient significance, adjusted R²
+
+- <img width="818" height="704" alt="Image" src="https://github.com/user-attachments/assets/be2dd505-d112-44b4-8ffe-bd1160ee5a42" />
 
 ### Data Preparation
 
