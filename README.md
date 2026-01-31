@@ -90,6 +90,17 @@ This question is critical for:
 - Outlier handling via **Winsorization and IQR-based correction**  
 - Final dataset contained **zero missing values**  
 
+<img width="363" height="365" alt="Image" src="https://github.com/user-attachments/assets/d440cd52-8214-4acd-b55f-2f5a42d46312" />
+
+<img width="321" height="426" alt="Image" src="https://github.com/user-attachments/assets/119a333d-2fd0-406d-b172-4306d409836f" />
+
+<img width="819" height="443" alt="Image" src="https://github.com/user-attachments/assets/f3145915-40c5-4516-8ba1-5a55f8a33667" />
+
+<img width="816" height="360" alt="Image" src="https://github.com/user-attachments/assets/a30e3d66-b60d-4ec2-8a35-960ec3f5eb76" />
+
+<img width="833" height="259" alt="Image" src="https://github.com/user-attachments/assets/a7f31a1a-b210-47a3-a286-e4ba8968488c" />
+
+<img width="55" height="32" alt="Image" src="https://github.com/user-attachments/assets/581179cc-ff43-4605-b399-bcb1f1b19c78" />
 ---
 
 ## Key Econometric Results
